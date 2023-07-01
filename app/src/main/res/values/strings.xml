@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Indoor Positioning DEMO</string>
+    <!--<string name="bleDevice1_tip">蓝牙设备1:</string>-->
+    <!--<string name="bleDevice2_tip">蓝牙设备2:</string>-->
+    <!--<string name="bleDevice3_tip">蓝牙设备3:</string>-->
+    <!--<string name="rssi">rssi:</string>-->
+    <string name="refresh">Locate</string>
+    <string name="calculate">Calculate</string>
+    <string name="room_x_tip">x range to : </string>
+    <string name="room_y_tip">y range to : </string>
+    <string name="location_tip">Current location: </string>
+    <string name="not_a_number">N/A</string>
+    <string name="copyright">Copyright &#169; 2018 Team 3</string>
+</resources>
